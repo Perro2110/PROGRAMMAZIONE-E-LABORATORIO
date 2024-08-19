@@ -1,2 +1,2 @@
 # esProgrammazione
-2022
+Preparazione primo esame del primo anno riguardo C 
